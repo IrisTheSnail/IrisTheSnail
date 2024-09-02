@@ -57,8 +57,8 @@
 
 <br/>
 <h2> 📊 Github Stats </h2> 
-<a href="https://github.com/Elcaveman/github-readme-stats">
+<!-- <a href="https://github.com/Elcaveman/github-readme-stats">
 	<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&layout=compact&theme=tokyonight" />
-</a>
+</a> -->
 <img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=IrisTheSnail&theme=tokyonight" alt="IrisTheSnail"/>
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=IrisTheSnail&show_icons=true&theme=tokyonight"/>
